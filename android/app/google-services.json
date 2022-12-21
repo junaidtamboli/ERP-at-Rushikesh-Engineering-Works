@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25767025476",
+    "project_id": "rushikesh-engg",
+    "storage_bucket": "rushikesh-engg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25767025476:android:29b0ffca054ffbca641511",
+        "android_client_info": {
+          "package_name": "com.example.rushikesh_engg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25767025476-5l6958orbtu61ec5dvd78jhkd1o3htsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiv4bYe95Q2WzJBfcZtDEUNMPCtGL4Tsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25767025476-5l6958orbtu61ec5dvd78jhkd1o3htsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
